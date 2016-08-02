@@ -1,6 +1,6 @@
 # Reston MTC Studios
 ## MTC Studios - Government Cloud Overview
-... **Date:** August 2016
+... **Date:** August 2016  
 ... *abstract here*
 
 ###Show Links
